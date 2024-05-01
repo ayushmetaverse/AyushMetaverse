@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmetaverse&show_icons=true&locale=en&layout=compact" alt="ayushmetaverse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmetaverse&show_icons=true&locale=en" alt="ayushmetaverse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmetaverse&" alt="ayushmetaverse" /></p>
